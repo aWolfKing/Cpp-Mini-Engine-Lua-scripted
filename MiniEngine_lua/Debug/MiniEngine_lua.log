@@ -1,0 +1,5 @@
+﻿  rendering.cpp
+f:\documents\development\c++\projects\miniengine_lua\miniengine_lua\rendering.cpp(15): warning C4018: '<': signed/unsigned mismatch
+f:\documents\development\c++\projects\miniengine_lua\miniengine_lua\rendering.cpp(42): warning C4018: '<': signed/unsigned mismatch
+f:\documents\development\c++\projects\miniengine_lua\miniengine_lua\rendering.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  MiniEngine_lua.vcxproj -> F:\Documents\Development\c++\Projects\MiniEngine_lua\Debug\MiniEngine_lua.exe
